@@ -2,7 +2,7 @@ package com.example.demo.entity;
 
 import java.io.Serializable;
 
-//需要实现序列化
+//需要实现序列化1
 public class User implements Serializable{
 
 	
